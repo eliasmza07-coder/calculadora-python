@@ -23,13 +23,10 @@ calculadora-python/
 └── README.md
 
 ## Ejecución del programa
-1. Clonar el repositorio:
-git clone https://github.com/tu-usuario/calculadora-python.git
-
-2. Entrar a la carpeta:
+1. Entrar a la carpeta:
 cd calculadora-python
 
-3. Ejecutar:
+2. Ejecutar:
 python calculadora.py
 
 ## Autor
