@@ -62,7 +62,7 @@ def main():
         opcion = Interfaz.pedir_opcion()
 
         if opcion == 0:
-            print("Gracias por usar la calculadora 👋")
+            print("Gracias por usar la calculadora")
             break
 
         n1 = Interfaz.pedir_numero("Ingrese el primer número:\n> ")
@@ -80,5 +80,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
